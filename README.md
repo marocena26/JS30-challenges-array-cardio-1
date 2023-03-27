@@ -17,10 +17,10 @@ The aim of this project is to **solve 8 exercises using** the different **array 
 **Sweat it out!**
 
 In this repository you will find a series of **exercises to solve** them **using** different **array methods**, being these:
-- **filter**.
-- **map**.
-- **sort**.
-- **reduce**. 
+- **filter**
+- **map**
+- **sort**
+- **reduce**.
 ## 📝 Requirements
 
 The exercise consists on developing a web-site using the following **elements**:
