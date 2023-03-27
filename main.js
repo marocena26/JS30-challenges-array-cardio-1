@@ -158,4 +158,4 @@ const transports = data.reduce((obj, item) => {
   return obj;
 }, {});
 
-console.log(transports);
+console.table(transports);
