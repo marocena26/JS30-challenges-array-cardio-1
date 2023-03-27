@@ -4,6 +4,10 @@
 
 - **Mª Elena Arocena López: [@marocena26](https://github.com/marocena26)**
 
+## 🚨 Hey, look here! 
+
+In the attached repository you will find all the challenges, just click [here](https://github.com/marocena26/JS30-challenges) 😋.
+
 ## 🚀 Introduction
 
 In this repository you can find the files generated in the **30 Day Vanilla JS Coding Challenge - Project 04** within **[Wes Bos Courses](https://courses.wesbos.com/)**.
